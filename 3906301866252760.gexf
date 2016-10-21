@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.gephi.org/gexf/1.2draft" xmlns:ns0="xsi" version="1.2" ns0:schemaLocation="http://www.gephi.org/gexf/1.1draft http://gephi.org/gexf/1.2draft.xsd">
+  <meta lastmodified="2016-10-01">
+    <creator>Huang</creator>
+    <description>A web network</description>
+  </meta>
+  <graph defaultedgetype="directed" label="A web network" mode="dynamic" timeformat="dateTime">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="m_id" type="string"/>
+      <attribute id="1" title="content" type="string"/>
+      <attribute id="2" title="u_id" type="string"/>
+      <attribute id="3" title="m_time" type="string"/>
+      <attribute id="4" title="m_timestamp" type="string"/>
+    </attributes>
+    <nodes>
+      <node id="3906301866252760" label="label1">
+        <attvalues>
+          <attvalue for="0" value="3906301866252760"/>
+          <attvalue for="1" value="一只帅帅的模特 @lim陈浩"/>
+          <attvalue for="2" value="1342889641"/>
+          <attvalue for="3" value="2015-11-06T22:00:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446818403000"/>
+        </attvalues>
+      </node>
+      <node id="3906316667798934" label="label5">
+        <attvalues>
+          <attvalue for="0" value="3906316667798934"/>
+          <attvalue for="1" value="转发微博"/>
+          <attvalue for="2" value="3844430998"/>
+          <attvalue for="3" value="2015-11-06T22:58:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446821932000"/>
+        </attvalues>
+      </node>
+      <node id="3906334221542484" label="label2">
+        <attvalues>
+          <attvalue for="0" value="3906334221542484"/>
+          <attvalue for="1" value="转发微博"/>
+          <attvalue for="2" value="5144381892"/>
+          <attvalue for="3" value="2015-11-07T00:08:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446826116000"/>
+        </attvalues>
+      </node>
+      <node id="3906424314595228" label="label6">
+        <attvalues>
+          <attvalue for="0" value="3906424314595228"/>
+          <attvalue for="1" value="转发微博"/>
+          <attvalue for="2" value="5151281838"/>
+          <attvalue for="3" value="2015-11-07T06:06:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446847596000"/>
+        </attvalues>
+      </node>
+      <node id="3906440756821913" label="label4">
+        <attvalues>
+          <attvalue for="0" value="3906440756821913"/>
+          <attvalue for="1" value="转发微博"/>
+          <attvalue for="2" value="5654062489"/>
+          <attvalue for="3" value="2015-11-07T07:11:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446851517000"/>
+        </attvalues>
+      </node>
+      <node id="3906499161720951" label="label3">
+        <attvalues>
+          <attvalue for="0" value="3906499161720951"/>
+          <attvalue for="1" value="转发微博"/>
+          <attvalue for="2" value="5553568331"/>
+          <attvalue for="3" value="2015-11-07T11:04:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446865442000"/>
+        </attvalues>
+      </node>
+      <node id="3906633224457013" label="label0">
+        <attvalues>
+          <attvalue for="0" value="3906633224457013"/>
+          <attvalue for="1" value="Repost"/>
+          <attvalue for="2" value="5710782669"/>
+          <attvalue for="3" value="2015-11-07T19:56:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446897405000"/>
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="3906301866252760" target="3906334221542484"/>
+      <edge id="1" source="3906301866252760" target="3906633224457013"/>
+      <edge id="2" source="3906301866252760" target="3906440756821913"/>
+      <edge id="3" source="3906301866252760" target="3906499161720951"/>
+      <edge id="4" source="3906301866252760" target="3906424314595228"/>
+      <edge id="5" source="3906301866252760" target="3906316667798934"/>
+    </edges>
+  </graph>
+</gexf>

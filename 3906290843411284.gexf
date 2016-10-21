@@ -1,0 +1,1729 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.gephi.org/gexf/1.2draft" xmlns:ns0="xsi" version="1.2" ns0:schemaLocation="http://www.gephi.org/gexf/1.1draft http://gephi.org/gexf/1.2draft.xsd">
+  <meta lastmodified="2016-10-01">
+    <creator>Huang</creator>
+    <description>A web network</description>
+  </meta>
+  <graph defaultedgetype="directed" label="A web network" mode="dynamic" timeformat="dateTime">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="m_id" type="string"/>
+      <attribute id="1" title="content" type="string"/>
+      <attribute id="2" title="u_id" type="string"/>
+      <attribute id="3" title="m_time" type="string"/>
+      <attribute id="4" title="m_timestamp" type="string"/>
+    </attributes>
+    <nodes>
+      <node id="3906290843411284" label="label150">
+        <attvalues>
+          <attvalue for="0" value="3906290843411284"/>
+          <attvalue for="1" value="【警惕癌症的低龄化】一个可爱的小女孩，年仅15岁，不幸身患结肠癌，手术后分期已经是3期，需要做术后辅助化疗。可惜！震惊！感言：目前的癌症患者，发病年龄没有最小，只有更小。"/>
+          <attvalue for="2" value="1584773361"/>
+          <attvalue for="3" value="2015-11-06T21:16:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446815775000"/>
+        </attvalues>
+      </node>
+      <node id="3906291325598604" label="label74">
+        <attvalues>
+          <attvalue for="0" value="3906291325598604"/>
+          <attvalue for="1" value="转发微博"/>
+          <attvalue for="2" value="1884220370"/>
+          <attvalue for="3" value="2015-11-06T21:18:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446815890000"/>
+        </attvalues>
+      </node>
+      <node id="3906291443651843" label="label96">
+        <attvalues>
+          <attvalue for="0" value="3906291443651843"/>
+          <attvalue for="1" value="转发微博"/>
+          <attvalue for="2" value="1821392265"/>
+          <attvalue for="3" value="2015-11-06T21:18:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446815918000"/>
+        </attvalues>
+      </node>
+      <node id="3906295155716470" label="label99">
+        <attvalues>
+          <attvalue for="0" value="3906295155716470"/>
+          <attvalue for="1" value="陈医生你好，我妈肺癌晚期，9月25号做了加强磁共振和加强CT，骨扫描也做了，诊断结果显示多器官转移。现在最大的问题是她没有食欲，不能进食，她又不愿意去医院，陈医生可以给我们一些建议嘛，关于保持营养上。"/>
+          <attvalue for="2" value="2102116674"/>
+          <attvalue for="3" value="2015-11-06T21:33:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446816803000"/>
+        </attvalues>
+      </node>
+      <node id="3906300121234822" label="label132">
+        <attvalues>
+          <attvalue for="0" value="3906300121234822"/>
+          <attvalue for="1" value="转发微博"/>
+          <attvalue for="2" value="2037256903"/>
+          <attvalue for="3" value="2015-11-06T21:53:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446817987000"/>
+        </attvalues>
+      </node>
+      <node id="3906351652832802" label="label136">
+        <attvalues>
+          <attvalue for="0" value="3906351652832802"/>
+          <attvalue for="1" value="转发微博"/>
+          <attvalue for="2" value="1183017501"/>
+          <attvalue for="3" value="2015-11-07T01:17:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446830273000"/>
+        </attvalues>
+      </node>
+      <node id="3906449622991194" label="label157">
+        <attvalues>
+          <attvalue for="0" value="3906449622991194"/>
+          <attvalue for="1" value="回复@进击中的春喜:咨询治疗方案，建议通过我的“好大夫在线个人网站”或者“新浪爱问医生”。 ¡评论配图 "/>
+          <attvalue for="2" value="1584773361"/>
+          <attvalue for="3" value="2015-11-07T07:47:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446853631000"/>
+        </attvalues>
+      </node>
+      <node id="3906449832470434" label="label73">
+        <attvalues>
+          <attvalue for="0" value="3906449832470434"/>
+          <attvalue for="1" value="回复@柳叶刀-杰夫:该患者目前没有发现家族遗传史，很可能与长期的不健康饮食等生活方式有关。 //@柳叶刀-杰夫:我们以前有个18的，家族遗传史"/>
+          <attvalue for="2" value="1584773361"/>
+          <attvalue for="3" value="2015-11-07T07:48:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446853681000"/>
+        </attvalues>
+      </node>
+      <node id="3906450352862017" label="label149">
+        <attvalues>
+          <attvalue for="0" value="3906450352862017"/>
+          <attvalue for="1" value=" //@肿瘤专家陈小兵:该患者目前没有发现家族遗传史，很可能与长期的不健康饮食等生活方式有关。 "/>
+          <attvalue for="2" value="1401947377"/>
+          <attvalue for="3" value="2015-11-07T07:50:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446853805000"/>
+        </attvalues>
+      </node>
+      <node id="3906472792070724" label="label97">
+        <attvalues>
+          <attvalue for="0" value="3906472792070724"/>
+          <attvalue for="1" value="救救不幸的孩子！[心]"/>
+          <attvalue for="2" value="3080673823"/>
+          <attvalue for="3" value="2015-11-07T09:19:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446859155000"/>
+        </attvalues>
+      </node>
+      <node id="3906474331509563" label="label152">
+        <attvalues>
+          <attvalue for="0" value="3906474331509563"/>
+          <attvalue for="1" value="回复@小白_印度良品代购:大肠癌的靶向治疗，目前单独运用疗效非常有限，需要联合化疗。//@小白_印度良品代购:陈大夫，阿瓦斯汀，爱必妥这样的靶向药物治疗难道不比化疗更好吗？"/>
+          <attvalue for="2" value="1584773361"/>
+          <attvalue for="3" value="2015-11-07T09:25:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446859522000"/>
+        </attvalues>
+      </node>
+      <node id="3906476517030872" label="label127">
+        <attvalues>
+          <attvalue for="0" value="3906476517030872"/>
+          <attvalue for="1" value="在不注意，下一个病人，就可能是你，是他，是我了！"/>
+          <attvalue for="2" value="5749842488"/>
+          <attvalue for="3" value="2015-11-07T09:34:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446860043000"/>
+        </attvalues>
+      </node>
+      <node id="3906517977978227" label="label71">
+        <attvalues>
+          <attvalue for="0" value="3906517977978227"/>
+          <attvalue for="1" value="三期也不能用靶向啊，术后辅助就行，贝伐与C225也没做过这么小年龄的实验，谨慎选择吧 //@肿瘤专家陈小兵:回复@小白_印度良品代购:大肠癌的靶向治疗，目前单独运用疗效非常有限，需要联合化疗。//@小白_印度良品代购:陈大夫，阿瓦斯汀，爱必妥这样的靶向药物治疗难道不比化疗更好吗？"/>
+          <attvalue for="2" value="3511307724"/>
+          <attvalue for="3" value="2015-11-07T12:18:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446869927000"/>
+        </attvalues>
+      </node>
+      <node id="3906528223987449" label="label156">
+        <attvalues>
+          <attvalue for="0" value="3906528223987449"/>
+          <attvalue for="1" value="是的，靶向治疗目前没有术后辅助之间的证据！还只能用于晚期患者治疗。//@水解呆萌:三期也不能用靶向啊，术后辅助就行，贝伐与C225也没做过这么小年龄的实验，谨慎选择吧 //@肿瘤专家陈小兵:回复@小白_印度良品代购:大肠癌的靶向治疗，目前单独运用疗效非常有限，需要联合化疗。//@小白_印度良品代购:"/>
+          <attvalue for="2" value="1584773361"/>
+          <attvalue for="3" value="2015-11-07T12:59:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446872371000"/>
+        </attvalues>
+      </node>
+      <node id="3906528505954807" label="label48">
+        <attvalues>
+          <attvalue for="0" value="3906528505954807"/>
+          <attvalue for="1" value="人人都要注意！预防胜过治疗，健康的生活方式和饮食习惯，很重要！//@医搜医搜:在不注意，下一个病人，就可能是你，是他，是我了！"/>
+          <attvalue for="2" value="1584773361"/>
+          <attvalue for="3" value="2015-11-07T13:00:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446872438000"/>
+        </attvalues>
+      </node>
+      <node id="3906528744581218" label="label68">
+        <attvalues>
+          <attvalue for="0" value="3906528744581218"/>
+          <attvalue for="1" value="积极治疗，患者还有治愈的可能。//@北斗星说:救救不幸的孩子！[心]"/>
+          <attvalue for="2" value="1584773361"/>
+          <attvalue for="3" value="2015-11-07T13:01:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446872495000"/>
+        </attvalues>
+      </node>
+      <node id="3906529230916577" label="label46">
+        <attvalues>
+          <attvalue for="0" value="3906529230916577"/>
+          <attvalue for="1" value="这种要考虑林奇综合征//@肿瘤专家陈小兵:积极治疗，患者还有治愈的可能。//@北斗星说:救救不幸的孩子！[心]"/>
+          <attvalue for="2" value="1886693037"/>
+          <attvalue for="3" value="2015-11-07T13:03:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446872610000"/>
+        </attvalues>
+      </node>
+      <node id="3906534976981734" label="label56">
+        <attvalues>
+          <attvalue for="0" value="3906534976981734"/>
+          <attvalue for="1" value="转发微博"/>
+          <attvalue for="2" value="2967853341"/>
+          <attvalue for="3" value="2015-11-07T13:26:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446873980000"/>
+        </attvalues>
+      </node>
+      <node id="3906535861958927" label="label62">
+        <attvalues>
+          <attvalue for="0" value="3906535861958927"/>
+          <attvalue for="1" value="预防胜过治疗，警惕！ //@肿瘤专家陈小兵:人人都要注意！预防胜过治疗，健康的生活方式和饮食习惯，很重要！//@医搜医搜:在不注意，下一个病人，就可能是你，是他，是我了！"/>
+          <attvalue for="2" value="2834515785"/>
+          <attvalue for="3" value="2015-11-07T13:29:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446874191000"/>
+        </attvalues>
+      </node>
+      <node id="3906554073577394" label="label131">
+        <attvalues>
+          <attvalue for="0" value="3906554073577394"/>
+          <attvalue for="1" value="//@肿瘤专家陈小兵:人人都要注意！预防胜过治疗，健康的生活方式和饮食习惯，很重要！//@医搜医搜:在不注意，下一个病人，就可能是你，是他，是我了！"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2015-11-07T14:42:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446878534000"/>
+        </attvalues>
+      </node>
+      <node id="3906555164215008" label="label4">
+        <attvalues>
+          <attvalue for="0" value="3906555164215008"/>
+          <attvalue for="1" value="//@肿瘤专家陈小兵:积极治疗，患者还有治愈的可能。//@北斗星说:救救不幸的孩子！[心]"/>
+          <attvalue for="2" value="1733434322"/>
+          <attvalue for="3" value="2015-11-07T14:46:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446878794000"/>
+        </attvalues>
+      </node>
+      <node id="3906560474389799" label="label55">
+        <attvalues>
+          <attvalue for="0" value="3906560474389799"/>
+          <attvalue for="1" value="【警惕癌症的低龄化】目前的癌症患者，发病年龄没有最小，只有更小。"/>
+          <attvalue for="2" value="5559843469"/>
+          <attvalue for="3" value="2015-11-07T15:07:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446880059000"/>
+        </attvalues>
+      </node>
+      <node id="3906586529020775" label="label147">
+        <attvalues>
+          <attvalue for="0" value="3906586529020775"/>
+          <attvalue for="1" value="健康的生活习惯是防癌的关键之一！"/>
+          <attvalue for="2" value="2256568683"/>
+          <attvalue for="3" value="2015-11-07T16:51:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446886272000"/>
+        </attvalues>
+      </node>
+      <node id="3906610231644037" label="label53">
+        <attvalues>
+          <attvalue for="0" value="3906610231644037"/>
+          <attvalue for="1" value=" //@肿瘤专家陈小兵:人人都要注意！预防胜过治疗，健康的生活方式和饮食习惯，很重要！//@医搜医搜:在不注意，下一个病人，就可能是你，是他，是我了！"/>
+          <attvalue for="2" value="2191870830"/>
+          <attvalue for="3" value="2015-11-07T18:25:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446891922000"/>
+        </attvalues>
+      </node>
+      <node id="3906637637324939" label="label28">
+        <attvalues>
+          <attvalue for="0" value="3906637637324939"/>
+          <attvalue for="1" value="侵袭性血管瘤有什么好的治疗方法么//@肿瘤专家陈小兵:是的，靶向治疗目前没有术后辅助之间的证据！还只能用于晚期患者治疗。//@水解呆萌:三期也不能用靶向啊，术后辅助就行，贝伐与C225也没做过这么小年龄的实验，谨慎选择吧 [作揖]"/>
+          <attvalue for="2" value="5092307781"/>
+          <attvalue for="3" value="2015-11-07T20:14:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446898457000"/>
+        </attvalues>
+      </node>
+      <node id="3906808583985204" label="label72">
+        <attvalues>
+          <attvalue for="0" value="3906808583985204"/>
+          <attvalue for="1" value="回复@臣麻麻:只要心存希望，一切皆有可能。我从不预测患者的生存时间。因为，患者自己才是最好的医生。//@臣麻麻:我的父亲是直肠癌3期，也是手术后放化疗辅助，请问医生这样还能活多久//@肿瘤专家陈小兵:积极治疗，患者还有治愈的可能。//@北斗星说:救救不幸的孩子！[心]"/>
+          <attvalue for="2" value="1584773361"/>
+          <attvalue for="3" value="2015-11-08T07:33:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446939213000"/>
+        </attvalues>
+      </node>
+      <node id="3906808646920703" label="label37">
+        <attvalues>
+          <attvalue for="0" value="3906808646920703"/>
+          <attvalue for="1" value="回复@浩气长存1658:不推荐，不建议，更不采用。//@浩气长存1658:请教陈小兵专家，低分化肺腺癌患者第一次的治疗，可以用培美曲塞化疗的同时口服特罗凯吗？我怎么感觉这不太科学？不太合理？您的意见？"/>
+          <attvalue for="2" value="1584773361"/>
+          <attvalue for="3" value="2015-11-08T07:33:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446939228000"/>
+        </attvalues>
+      </node>
+      <node id="3906822434263652" label="label66">
+        <attvalues>
+          <attvalue for="0" value="3906822434263652"/>
+          <attvalue for="1" value="//@肿瘤专家陈小兵:回复@浩气长存1658:不推荐，不建议，更不采用。//@浩气长存1658:请教陈小兵专家，低分化肺腺癌患者第一次的治疗，可以用培美曲塞化疗的同时口服特罗凯吗？我怎么感觉这不太科学？不太合理？您的意见？"/>
+          <attvalue for="2" value="2309578142"/>
+          <attvalue for="3" value="2015-11-08T08:28:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446942516000"/>
+        </attvalues>
+      </node>
+      <node id="3906842331491453" label="label78">
+        <attvalues>
+          <attvalue for="0" value="3906842331491453"/>
+          <attvalue for="1" value=" //@肿瘤专家陈小兵:回复@臣麻麻:只要心存希望，一切皆有可能。我从不预测患者的生存时间。因为，患者自己才是最好的医生。//@臣麻麻:我的父亲是直肠癌3期，也是手术后放化疗辅助，请问医生这样还能活多久//@肿瘤专家陈小兵:积极治疗，患者还有治愈的可能。//@北斗星说:救救不幸的孩子！[心]"/>
+          <attvalue for="2" value="1673407084"/>
+          <attvalue for="3" value="2015-11-08T09:47:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446947260000"/>
+        </attvalues>
+      </node>
+      <node id="3906842381864126" label="label36">
+        <attvalues>
+          <attvalue for="0" value="3906842381864126"/>
+          <attvalue for="1" value=" //@肿瘤专家陈小兵:回复@浩气长存1658:不推荐，不建议，更不采用。//@浩气长存1658:请教陈小兵专家，低分化肺腺癌患者第一次的治疗，可以用培美曲塞化疗的同时口服特罗凯吗？我怎么感觉这不太科学？不太合理？您的意见？"/>
+          <attvalue for="2" value="1673407084"/>
+          <attvalue for="3" value="2015-11-08T09:47:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446947272000"/>
+        </attvalues>
+      </node>
+      <node id="3906875336722594" label="label126">
+        <attvalues>
+          <attvalue for="0" value="3906875336722594"/>
+          <attvalue for="1" value="//@肿瘤专家陈小兵:回复@柳叶刀-杰夫:该患者目前没有发现家族遗传史，很可能与长期的不健康饮食等生活方式有关。 //@柳叶刀-杰夫:我们以前有个18的，家族遗传史"/>
+          <attvalue for="2" value="2506871672"/>
+          <attvalue for="3" value="2015-11-08T11:58:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446955128000"/>
+        </attvalues>
+      </node>
+      <node id="3906931913482997" label="label95">
+        <attvalues>
+          <attvalue for="0" value="3906931913482997"/>
+          <attvalue for="1" value="博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="2632187283"/>
+          <attvalue for="3" value="2015-11-08T15:43:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446968617000"/>
+        </attvalues>
+      </node>
+      <node id="3906932580232907" label="label52">
+        <attvalues>
+          <attvalue for="0" value="3906932580232907"/>
+          <attvalue for="1" value="病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="1584773361"/>
+          <attvalue for="3" value="2015-11-08T15:46:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446968777000"/>
+        </attvalues>
+      </node>
+      <node id="3906934480261067" label="label144">
+        <attvalues>
+          <attvalue for="0" value="3906934480261067"/>
+          <attvalue for="1" value="我现在每天吃二瓣大生蒜。能预防么。陈老师 //@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗[哈哈][哈哈][挖鼻]"/>
+          <attvalue for="2" value="2768306105"/>
+          <attvalue for="3" value="2015-11-08T15:53:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446969229000"/>
+        </attvalues>
+      </node>
+      <node id="3906934903963330" label="label38">
+        <attvalues>
+          <attvalue for="0" value="3906934903963330"/>
+          <attvalue for="1" value="//@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3180828495"/>
+          <attvalue for="3" value="2015-11-08T15:55:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446969331000"/>
+        </attvalues>
+      </node>
+      <node id="3906935310593334" label="label57">
+        <attvalues>
+          <attvalue for="0" value="3906935310593334"/>
+          <attvalue for="1" value="//@肿瘤专家陈小兵: 病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="1401487223"/>
+          <attvalue for="3" value="2015-11-08T15:57:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446969428000"/>
+        </attvalues>
+      </node>
+      <node id="3906936276081509" label="label86">
+        <attvalues>
+          <attvalue for="0" value="3906936276081509"/>
+          <attvalue for="1" value="//@病理医生杨连君://@肿瘤专家陈小兵: 病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="5150095597"/>
+          <attvalue for="3" value="2015-11-08T16:00:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446969658000"/>
+        </attvalues>
+      </node>
+      <node id="3906938267651830" label="label0">
+        <attvalues>
+          <attvalue for="0" value="3906938267651830"/>
+          <attvalue for="1" value="说到点子上了，这些天天吃垃圾食品的家伙还常常很牛逼的嘲笑别人健康饮食习惯//@病理医生杨连君: //@肿瘤专家陈小兵: 病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品"/>
+          <attvalue for="2" value="1033535002"/>
+          <attvalue for="3" value="2015-11-08T16:08:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446970132000"/>
+        </attvalues>
+      </node>
+      <node id="3906954134776831" label="label105">
+        <attvalues>
+          <attvalue for="0" value="3906954134776831"/>
+          <attvalue for="1" value="这种极端情况不应过份联想饮食。//@病理医生杨连君://@肿瘤专家陈小兵: 病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗"/>
+          <attvalue for="2" value="1270488452"/>
+          <attvalue for="3" value="2015-11-08T17:11:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446973915000"/>
+        </attvalues>
+      </node>
+      <node id="3906955011492418" label="label84">
+        <attvalues>
+          <attvalue for="0" value="3906955011492418"/>
+          <attvalue for="1" value="//@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2015-11-08T17:15:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446974125000"/>
+        </attvalues>
+      </node>
+      <node id="3906956127618568" label="label45">
+        <attvalues>
+          <attvalue for="0" value="3906956127618568"/>
+          <attvalue for="1" value="结直肠癌低龄化，与长期吃垃圾食品密切相关。//@港文罗:说到点子上了，这些天天吃垃圾食品的家伙还常常很牛逼的嘲笑别人健康饮食习惯//@病理医生杨连君: //@肿瘤专家陈小兵: 病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品"/>
+          <attvalue for="2" value="1584773361"/>
+          <attvalue for="3" value="2015-11-08T17:19:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446974391000"/>
+        </attvalues>
+      </node>
+      <node id="3906956282184492" label="label63">
+        <attvalues>
+          <attvalue for="0" value="3906956282184492"/>
+          <attvalue for="1" value="坚持，就有作用。//@中迈集团:我现在每天吃二瓣大生蒜。能预防么。陈老师 //@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧[哈哈][哈哈]"/>
+          <attvalue for="2" value="1584773361"/>
+          <attvalue for="3" value="2015-11-08T17:20:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446974427000"/>
+        </attvalues>
+      </node>
+      <node id="3906956558958037" label="label154">
+        <attvalues>
+          <attvalue for="0" value="3906956558958037"/>
+          <attvalue for="1" value="轉發微博"/>
+          <attvalue for="2" value="5647166120"/>
+          <attvalue for="3" value="2015-11-08T17:21:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446974493000"/>
+        </attvalues>
+      </node>
+      <node id="3906956601106348" label="label33">
+        <attvalues>
+          <attvalue for="0" value="3906956601106348"/>
+          <attvalue for="1" value="回复@AndyDing13:已经建议患者做，结果下周出来。//@AndyDing13:低龄结直肠癌，是否应考虑遗传性肿瘤，如mismatch repair基因突变等？应建议做MSI基因检测。"/>
+          <attvalue for="2" value="1584773361"/>
+          <attvalue for="3" value="2015-11-08T17:21:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446974503000"/>
+        </attvalues>
+      </node>
+      <node id="3906956894495978" label="label135">
+        <attvalues>
+          <attvalue for="0" value="3906956894495978"/>
+          <attvalue for="1" value="//@肿瘤专家陈小兵:结直肠癌低龄化，与长期吃垃圾食品密切相关。//@港文罗:说到点子上了，这些天天吃垃圾食品的家伙还常常很牛逼的嘲笑别人健康饮食习惯//@病理医生杨连君: //@肿瘤专家陈小兵: 病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品"/>
+          <attvalue for="2" value="2060082205"/>
+          <attvalue for="3" value="2015-11-08T17:22:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446974574000"/>
+        </attvalues>
+      </node>
+      <node id="3906958925046824" label="label163">
+        <attvalues>
+          <attvalue for="0" value="3906958925046824"/>
+          <attvalue for="1" value="坚持吃生大蒜，应该属于作用不明或者安慰剂吧。//@肿瘤专家陈小兵:坚持，就有作用。//@中迈集团:我现在每天吃二瓣大生蒜。能预防么。陈老师 //@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。[哈哈][哈哈]"/>
+          <attvalue for="2" value="1642206094"/>
+          <attvalue for="3" value="2015-11-08T17:30:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446975057000"/>
+        </attvalues>
+      </node>
+      <node id="3906961894031612" label="label92">
+        <attvalues>
+          <attvalue for="0" value="3906961894031612"/>
+          <attvalue for="1" value="回复@Anorola不是花痴:根治手术后，坚持做规范辅助化疗半年，还是有很大希望的。 //@Anorola不是花痴:结肠癌三期预后有多差啊？ //@肿瘤专家陈小兵:回复@AndyDing13:已经建议患者做，结果下周出来。[悲伤]"/>
+          <attvalue for="2" value="1584773361"/>
+          <attvalue for="3" value="2015-11-08T17:42:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446975766000"/>
+        </attvalues>
+      </node>
+      <node id="3906962133569177" label="label13">
+        <attvalues>
+          <attvalue for="0" value="3906962133569177"/>
+          <attvalue for="1" value=" //@病理医生杨连君://@肿瘤专家陈小兵: 病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="1826403080"/>
+          <attvalue for="3" value="2015-11-08T17:43:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446975823000"/>
+        </attvalues>
+      </node>
+      <node id="3906965136688703" label="label60">
+        <attvalues>
+          <attvalue for="0" value="3906965136688703"/>
+          <attvalue for="1" value="回复@-随-遇-而-安:能否治愈，不好简单判断，因为影响肝癌预后的影响因素众多。注意监测乙肝病毒的复制情况，必要时联合抗病毒治疗。 //@肿瘤专家陈小兵:回复@Anorola不是花痴:根治手术后，坚持做规范辅助化疗半年，还是有很大希望的。 //@Anorola不是花痴:结肠癌三期预后有多差啊？[悲伤]"/>
+          <attvalue for="2" value="1584773361"/>
+          <attvalue for="3" value="2015-11-08T17:55:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446976539000"/>
+        </attvalues>
+      </node>
+      <node id="3906966202222324" label="label141">
+        <attvalues>
+          <attvalue for="0" value="3906966202222324"/>
+          <attvalue for="1" value="//@肿瘤专家陈小兵:回复@-随-遇-而-安:能否治愈，不好简单判断，因为影响肝癌预后的影响因素众多。注意监测乙肝病毒的复制情况，必要时联合抗病毒治疗。 //@肿瘤专家陈小兵:根治手术后，坚持做规范辅助化疗半年，还是有很大希望的。 //@Anorola不是花痴:结肠癌三期预后有多差啊？[悲伤]"/>
+          <attvalue for="2" value="1825805891"/>
+          <attvalue for="3" value="2015-11-08T17:59:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446976792000"/>
+        </attvalues>
+      </node>
+      <node id="3906966868647922" label="label16">
+        <attvalues>
+          <attvalue for="0" value="3906966868647922"/>
+          <attvalue for="1" value="@jerry01ch 太可怕了//@肿瘤专家陈小兵:结直肠癌低龄化，与长期吃垃圾食品密切相关。//@港文罗:说到点子上了，这些天天吃垃圾食品的家伙还常常很牛逼的嘲笑别人健康饮食习惯//@肿瘤专家陈小兵: 病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品"/>
+          <attvalue for="2" value="1409552623"/>
+          <attvalue for="3" value="2015-11-08T18:02:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446976952000"/>
+        </attvalues>
+      </node>
+      <node id="3906969624450721" label="label67">
+        <attvalues>
+          <attvalue for="0" value="3906969624450721"/>
+          <attvalue for="1" value="回复@-随-遇-而-安:经济条件允许，可以联合运用免疫调节剂，如日达仙等。祝患者好运。 //@-随-遇-而-安:哦，恩替卡伟一直有在吃，病毒控制在500以下"/>
+          <attvalue for="2" value="1584773361"/>
+          <attvalue for="3" value="2015-11-08T18:13:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446977608000"/>
+        </attvalues>
+      </node>
+      <node id="3906974087877276" label="label88">
+        <attvalues>
+          <attvalue for="0" value="3906974087877276"/>
+          <attvalue for="1" value="日达仙//@肿瘤专家陈小兵:回复@-随-遇-而-安:经济条件允许，可以联合运用免疫调节剂，如日达仙等。祝患者好运。 //@-随-遇-而-安:哦，恩替卡伟一直有在吃，病毒控制在500以下[笑cry][笑cry]"/>
+          <attvalue for="2" value="1009515492"/>
+          <attvalue for="3" value="2015-11-08T18:31:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446978673000"/>
+        </attvalues>
+      </node>
+      <node id="3906976692309333" label="label138">
+        <attvalues>
+          <attvalue for="0" value="3906976692309333"/>
+          <attvalue for="1" value="//@闫大夫聊肝病:日达仙//@肿瘤专家陈小兵:回复@-随-遇-而-安:经济条件允许，可以联合运用免疫调节剂，如日达仙等。祝患者好运。 //@-随-遇-而-安:哦，恩替卡伟一直有在吃，病毒控制在500以下[笑cry][笑cry]"/>
+          <attvalue for="2" value="5264739180"/>
+          <attvalue for="3" value="2015-11-08T18:41:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446979294000"/>
+        </attvalues>
+      </node>
+      <node id="3906976997908756" label="label140">
+        <attvalues>
+          <attvalue for="0" value="3906976997908756"/>
+          <attvalue for="1" value="不好意思，一家之言。//@闫大夫聊肝病: 日达仙//@肿瘤专家陈小兵:回复@-随-遇-而-安:经济条件允许，可以联合运用免疫调节剂，如日达仙等。祝患者好运。 //@-随-遇-而-安:哦，恩替卡伟一直有在吃，病毒控制在500以下[笑cry][笑cry]"/>
+          <attvalue for="2" value="1584773361"/>
+          <attvalue for="3" value="2015-11-08T18:42:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446979366000"/>
+        </attvalues>
+      </node>
+      <node id="3906986925647078" label="label15">
+        <attvalues>
+          <attvalue for="0" value="3906986925647078"/>
+          <attvalue for="1" value="早一点做灌肠//@肿瘤专家陈小兵:回复@-随-遇-而-安:经济条件允许，可以联合运用免疫调节剂，如日达仙等。祝患者好运。 //@-随-遇-而-安:哦，恩替卡伟一直有在吃，病毒控制在500以下"/>
+          <attvalue for="2" value="5163616788"/>
+          <attvalue for="3" value="2015-11-08T19:22:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446981734000"/>
+        </attvalues>
+      </node>
+      <node id="3906997676114284" label="label22">
+        <attvalues>
+          <attvalue for="0" value="3906997676114284"/>
+          <attvalue for="1" value="//@肿瘤专家陈小兵:结直肠癌低龄化，与长期吃垃圾食品密切相关。//@港文罗:说到点子上了，这些天天吃垃圾食品的家伙还常常很牛逼的嘲笑别人健康饮食习惯//@病理医生杨连君: //@肿瘤专家陈小兵: 病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2015-11-08T20:04:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446984297000"/>
+        </attvalues>
+      </node>
+      <node id="3907014998978394" label="label9">
+        <attvalues>
+          <attvalue for="0" value="3907014998978394"/>
+          <attvalue for="1" value="//@肿瘤专家陈小兵:回复@-随-遇-而-安:经济条件允许，可以联合运用免疫调节剂，如日达仙等。祝患者好运。 //@-随-遇-而-安:哦，恩替卡伟一直有在吃，病毒控制在500以下"/>
+          <attvalue for="2" value="1400737335"/>
+          <attvalue for="3" value="2015-11-08T21:13:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446988427000"/>
+        </attvalues>
+      </node>
+      <node id="3907029057601517" label="label166">
+        <attvalues>
+          <attvalue for="0" value="3907029057601517"/>
+          <attvalue for="1" value="回复@南国风铃200507:手术，是根治晚期食管癌的首选手段。//@南国风铃200507:回复@肿瘤专家陈小兵:你好陈大夫，食道癌前期手术和中药保守治疗哪个可取"/>
+          <attvalue for="2" value="1584773361"/>
+          <attvalue for="3" value="2015-11-08T22:09:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446991778000"/>
+        </attvalues>
+      </node>
+      <node id="3907033621000567" label="label109">
+        <attvalues>
+          <attvalue for="0" value="3907033621000567"/>
+          <attvalue for="1" value="//@病理医生杨连君://@肿瘤专家陈小兵: 病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="2740404781"/>
+          <attvalue for="3" value="2015-11-08T22:27:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446992866000"/>
+        </attvalues>
+      </node>
+      <node id="3907294330531948" label="label134">
+        <attvalues>
+          <attvalue for="0" value="3907294330531948"/>
+          <attvalue for="1" value="//@病理医生杨连君://@肿瘤专家陈小兵: 病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3302046265"/>
+          <attvalue for="3" value="2015-11-09T15:43:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1447055024000"/>
+        </attvalues>
+      </node>
+      <node id="3908078342670146" label="label7">
+        <attvalues>
+          <attvalue for="0" value="3908078342670146"/>
+          <attvalue for="1" value="  ://@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2015-11-11T19:39:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1447241947000"/>
+        </attvalues>
+      </node>
+      <node id="3908080239018599" label="label44">
+        <attvalues>
+          <attvalue for="0" value="3908080239018599"/>
+          <attvalue for="1" value="//@攀爬云梯:  ://@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="5268416333"/>
+          <attvalue for="3" value="2015-11-11T19:46:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1447242399000"/>
+        </attvalues>
+      </node>
+      <node id="3908837373117396" label="label14">
+        <attvalues>
+          <attvalue for="0" value="3908837373117396"/>
+          <attvalue for="1" value="//@攀爬云梯:  ://@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2015-11-13T21:55:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1447422914000"/>
+        </attvalues>
+      </node>
+      <node id="3909380599136697" label="label79">
+        <attvalues>
+          <attvalue for="0" value="3909380599136697"/>
+          <attvalue for="1" value="//@肿瘤专家陈小兵:回复@柳叶刀-杰夫:该患者目前没有发现家族遗传史，很可能与长期的不健康饮食等生活方式有关。 //@柳叶刀-杰夫:我们以前有个18的，家族遗传史"/>
+          <attvalue for="2" value="2506871672"/>
+          <attvalue for="3" value="2015-11-15T09:53:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1447552430000"/>
+        </attvalues>
+      </node>
+      <node id="3909773210621532" label="label34">
+        <attvalues>
+          <attvalue for="0" value="3909773210621532"/>
+          <attvalue for="1" value="//@攀爬云梯:  ://@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2015-11-16T11:53:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1447646036000"/>
+        </attvalues>
+      </node>
+      <node id="3910255609861663" label="label19">
+        <attvalues>
+          <attvalue for="0" value="3910255609861663"/>
+          <attvalue for="1" value="//@攀爬云梯:  ://@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2015-11-17T19:50:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1447761049000"/>
+        </attvalues>
+      </node>
+      <node id="3912417916362026" label="label139">
+        <attvalues>
+          <attvalue for="0" value="3912417916362026"/>
+          <attvalue for="1" value="//@攀爬云梯://@攀爬云梯:  ://@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2015-11-23T19:03:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1448276583000"/>
+        </attvalues>
+      </node>
+      <node id="3914121508435522" label="label103">
+        <attvalues>
+          <attvalue for="0" value="3914121508435522"/>
+          <attvalue for="1" value=" ://@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2015-11-28T11:52:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1448682750000"/>
+        </attvalues>
+      </node>
+      <node id="3915580622742706" label="label111">
+        <attvalues>
+          <attvalue for="0" value="3915580622742706"/>
+          <attvalue for="1" value="//@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2015-12-02T12:30:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1449030631000"/>
+        </attvalues>
+      </node>
+      <node id="3916082240469496" label="label101">
+        <attvalues>
+          <attvalue for="0" value="3916082240469496"/>
+          <attvalue for="1" value="//@攀爬云梯://@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2015-12-03T21:43:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1449150226000"/>
+        </attvalues>
+      </node>
+      <node id="3916457630710760" label="label11">
+        <attvalues>
+          <attvalue for="0" value="3916457630710760"/>
+          <attvalue for="1" value="/@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2015-12-04T22:35:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1449239726000"/>
+        </attvalues>
+      </node>
+      <node id="3916458314454035" label="label5">
+        <attvalues>
+          <attvalue for="0" value="3916458314454035"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:结直肠癌低龄化，与长期吃垃圾食品密切相关。//@港文罗:说到点子上了，这些天天吃垃圾食品的家伙还常常很牛逼的嘲笑别人健康饮食习惯//@病理医生杨连君: //@肿瘤专家陈小兵: 病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2015-12-04T22:38:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1449239888000"/>
+        </attvalues>
+      </node>
+      <node id="3916780004847597" label="label30">
+        <attvalues>
+          <attvalue for="0" value="3916780004847597"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2015-12-05T19:56:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1449316586000"/>
+        </attvalues>
+      </node>
+      <node id="3917013687175948" label="label25">
+        <attvalues>
+          <attvalue for="0" value="3917013687175948"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2015-12-06T11:25:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1449372300000"/>
+        </attvalues>
+      </node>
+      <node id="3917441756973215" label="label114">
+        <attvalues>
+          <attvalue for="0" value="3917441756973215"/>
+          <attvalue for="1" value="//@攀爬云梯:@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2015-12-07T15:46:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1449474360000"/>
+        </attvalues>
+      </node>
+      <node id="3917820674574378" label="label49">
+        <attvalues>
+          <attvalue for="0" value="3917820674574378"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2015-12-08T16:51:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1449564701000"/>
+        </attvalues>
+      </node>
+      <node id="3918067484069221" label="label129">
+        <attvalues>
+          <attvalue for="0" value="3918067484069221"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2015-12-09T09:12:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1449623545000"/>
+        </attvalues>
+      </node>
+      <node id="3918268244835597" label="label23">
+        <attvalues>
+          <attvalue for="0" value="3918268244835597"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2015-12-09T22:30:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1449671410000"/>
+        </attvalues>
+      </node>
+      <node id="3918421014566428" label="label120">
+        <attvalues>
+          <attvalue for="0" value="3918421014566428"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2015-12-10T08:37:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1449707833000"/>
+        </attvalues>
+      </node>
+      <node id="3918596805312906" label="label29">
+        <attvalues>
+          <attvalue for="0" value="3918596805312906"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2015-12-10T20:15:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1449749745000"/>
+        </attvalues>
+      </node>
+      <node id="3918828696104530" label="label164">
+        <attvalues>
+          <attvalue for="0" value="3918828696104530"/>
+          <attvalue for="1" value=" @肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2015-12-11T11:37:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1449805032000"/>
+        </attvalues>
+      </node>
+      <node id="3918975064774324" label="label116">
+        <attvalues>
+          <attvalue for="0" value="3918975064774324"/>
+          <attvalue for="1" value="//@攀爬云梯: @肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2015-12-11T21:18:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1449839928000"/>
+        </attvalues>
+      </node>
+      <node id="3919158674287915" label="label20">
+        <attvalues>
+          <attvalue for="0" value="3919158674287915"/>
+          <attvalue for="1" value="//@攀爬云梯://@攀爬云梯: @肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2015-12-12T09:28:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1449883705000"/>
+        </attvalues>
+      </node>
+      <node id="3919536010589125" label="label75">
+        <attvalues>
+          <attvalue for="0" value="3919536010589125"/>
+          <attvalue for="1" value="，@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2015-12-13T10:27:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1449973668000"/>
+        </attvalues>
+      </node>
+      <node id="3921014053988124" label="label118">
+        <attvalues>
+          <attvalue for="0" value="3921014053988124"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2015-12-17T12:21:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1450326062000"/>
+        </attvalues>
+      </node>
+      <node id="3921532084194460" label="label64">
+        <attvalues>
+          <attvalue for="0" value="3921532084194460"/>
+          <attvalue for="1" value=":@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2015-12-18T22:39:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1450449569000"/>
+        </attvalues>
+      </node>
+      <node id="3922064941078136" label="label104">
+        <attvalues>
+          <attvalue for="0" value="3922064941078136"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2015-12-20T09:56:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1450576613000"/>
+        </attvalues>
+      </node>
+      <node id="3922959221163820" label="label12">
+        <attvalues>
+          <attvalue for="0" value="3922959221163820"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2015-12-22T21:10:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1450789826000"/>
+        </attvalues>
+      </node>
+      <node id="3923312981735139" label="label65">
+        <attvalues>
+          <attvalue for="0" value="3923312981735139"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2015-12-23T20:36:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1450874169000"/>
+        </attvalues>
+      </node>
+      <node id="3923890373432024" label="label133">
+        <attvalues>
+          <attvalue for="0" value="3923890373432024"/>
+          <attvalue for="1" value=":@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2015-12-25T10:50:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1451011830000"/>
+        </attvalues>
+      </node>
+      <node id="3924977591908350" label="label87">
+        <attvalues>
+          <attvalue for="0" value="3924977591908350"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2015-12-28T10:50:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1451271042000"/>
+        </attvalues>
+      </node>
+      <node id="3925347285939542" label="label77">
+        <attvalues>
+          <attvalue for="0" value="3925347285939542"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2015-12-29T11:19:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1451359185000"/>
+        </attvalues>
+      </node>
+      <node id="3925833200497181" label="label167">
+        <attvalues>
+          <attvalue for="0" value="3925833200497181"/>
+          <attvalue for="1" value="//@攀爬云梯:@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="5268416333"/>
+          <attvalue for="3" value="2015-12-30T19:30:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1451475035000"/>
+        </attvalues>
+      </node>
+      <node id="3926881512414574" label="label85">
+        <attvalues>
+          <attvalue for="0" value="3926881512414574"/>
+          <attvalue for="1" value=":@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-01-02T16:56:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1451724972000"/>
+        </attvalues>
+      </node>
+      <node id="3927705248533802" label="label89">
+        <attvalues>
+          <attvalue for="0" value="3927705248533802"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-01-04T23:29:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1451921367000"/>
+        </attvalues>
+      </node>
+      <node id="3930585896087108" label="label161">
+        <attvalues>
+          <attvalue for="0" value="3930585896087108"/>
+          <attvalue for="1" value="//@秦安人521大自然://@攀爬云梯:@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="5268416333"/>
+          <attvalue for="3" value="2016-01-12T22:16:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1452608167000"/>
+        </attvalues>
+      </node>
+      <node id="3936557780101543" label="label162">
+        <attvalues>
+          <attvalue for="0" value="3936557780101543"/>
+          <attvalue for="1" value=":@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-01-29T09:46:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1454031975000"/>
+        </attvalues>
+      </node>
+      <node id="3937368484110225" label="label58">
+        <attvalues>
+          <attvalue for="0" value="3937368484110225"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-01-31T15:27:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1454225262000"/>
+        </attvalues>
+      </node>
+      <node id="3937636257319605" label="label159">
+        <attvalues>
+          <attvalue for="0" value="3937636257319605"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-02-01T09:11:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1454289104000"/>
+        </attvalues>
+      </node>
+      <node id="3940694839842279" label="label146">
+        <attvalues>
+          <attvalue for="0" value="3940694839842279"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-02-09T19:45:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1455018327000"/>
+        </attvalues>
+      </node>
+      <node id="3941761719889412" label="label170">
+        <attvalues>
+          <attvalue for="0" value="3941761719889412"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-02-12T18:24:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1455272691000"/>
+        </attvalues>
+      </node>
+      <node id="3943270209302982" label="label110">
+        <attvalues>
+          <attvalue for="0" value="3943270209302982"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-02-16T22:19:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1455632343000"/>
+        </attvalues>
+      </node>
+      <node id="3943465920240213" label="label115">
+        <attvalues>
+          <attvalue for="0" value="3943465920240213"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-02-17T11:16:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1455679004000"/>
+        </attvalues>
+      </node>
+      <node id="3945774095629223" label="label169">
+        <attvalues>
+          <attvalue for="0" value="3945774095629223"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-02-23T20:08:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1456229316000"/>
+        </attvalues>
+      </node>
+      <node id="3946409960488000" label="label90">
+        <attvalues>
+          <attvalue for="0" value="3946409960488000"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-02-25T14:15:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1456380917000"/>
+        </attvalues>
+      </node>
+      <node id="3946723606506287" label="label31">
+        <attvalues>
+          <attvalue for="0" value="3946723606506287"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-02-26T11:01:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1456455698000"/>
+        </attvalues>
+      </node>
+      <node id="3947084262091698" label="label107">
+        <attvalues>
+          <attvalue for="0" value="3947084262091698"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-02-27T10:54:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1456541685000"/>
+        </attvalues>
+      </node>
+      <node id="3948307623068476" label="label21">
+        <attvalues>
+          <attvalue for="0" value="3948307623068476"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-03-01T19:55:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1456833356000"/>
+        </attvalues>
+      </node>
+      <node id="3948865885425864" label="label122">
+        <attvalues>
+          <attvalue for="0" value="3948865885425864"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-03-03T08:54:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1456966456000"/>
+        </attvalues>
+      </node>
+      <node id="3951062287350840" label="label59">
+        <attvalues>
+          <attvalue for="0" value="3951062287350840"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-03-09T10:21:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1457490118000"/>
+        </attvalues>
+      </node>
+      <node id="3951424544569591" label="label82">
+        <attvalues>
+          <attvalue for="0" value="3951424544569591"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-03-10T10:21:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1457576489000"/>
+        </attvalues>
+      </node>
+      <node id="3952483677931008" label="label165">
+        <attvalues>
+          <attvalue for="0" value="3952483677931008"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-03-13T08:30:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1457829005000"/>
+        </attvalues>
+      </node>
+      <node id="3952841535585575" label="label117">
+        <attvalues>
+          <attvalue for="0" value="3952841535585575"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-03-14T08:12:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1457914325000"/>
+        </attvalues>
+      </node>
+      <node id="3953568220280412" label="label94">
+        <attvalues>
+          <attvalue for="0" value="3953568220280412"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-03-16T08:19:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1458087580000"/>
+        </attvalues>
+      </node>
+      <node id="3953923963795917" label="label143">
+        <attvalues>
+          <attvalue for="0" value="3953923963795917"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-03-17T07:53:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1458172397000"/>
+        </attvalues>
+      </node>
+      <node id="3954277505863215" label="label102">
+        <attvalues>
+          <attvalue for="0" value="3954277505863215"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-03-18T07:18:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1458256687000"/>
+        </attvalues>
+      </node>
+      <node id="3954650023130560" label="label43">
+        <attvalues>
+          <attvalue for="0" value="3954650023130560"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-03-19T07:58:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1458345503000"/>
+        </attvalues>
+      </node>
+      <node id="3955029863481903" label="label108">
+        <attvalues>
+          <attvalue for="0" value="3955029863481903"/>
+          <attvalue for="1" value=":@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-03-20T09:07:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1458436063000"/>
+        </attvalues>
+      </node>
+      <node id="3955384697232884" label="label70">
+        <attvalues>
+          <attvalue for="0" value="3955384697232884"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-03-21T08:37:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1458520662000"/>
+        </attvalues>
+      </node>
+      <node id="3955747315888230" label="label24">
+        <attvalues>
+          <attvalue for="0" value="3955747315888230"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-03-22T08:38:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1458607118000"/>
+        </attvalues>
+      </node>
+      <node id="3956518765903377" label="label168">
+        <attvalues>
+          <attvalue for="0" value="3956518765903377"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-03-24T11:44:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1458791046000"/>
+        </attvalues>
+      </node>
+      <node id="3956825776524267" label="label119">
+        <attvalues>
+          <attvalue for="0" value="3956825776524267"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-03-25T08:04:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1458864242000"/>
+        </attvalues>
+      </node>
+      <node id="3957208129152474" label="label42">
+        <attvalues>
+          <attvalue for="0" value="3957208129152474"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-03-26T09:23:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1458955403000"/>
+        </attvalues>
+      </node>
+      <node id="3957550934019380" label="label3">
+        <attvalues>
+          <attvalue for="0" value="3957550934019380"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-03-27T08:05:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1459037132000"/>
+        </attvalues>
+      </node>
+      <node id="3957935656616775" label="label2">
+        <attvalues>
+          <attvalue for="0" value="3957935656616775"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-03-28T09:34:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1459128858000"/>
+        </attvalues>
+      </node>
+      <node id="3958291446378154" label="label153">
+        <attvalues>
+          <attvalue for="0" value="3958291446378154"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-03-29T09:08:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1459213686000"/>
+        </attvalues>
+      </node>
+      <node id="3958649665106797" label="label151">
+        <attvalues>
+          <attvalue for="0" value="3958649665106797"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-03-30T08:51:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1459299091000"/>
+        </attvalues>
+      </node>
+      <node id="3959008261416996" label="label124">
+        <attvalues>
+          <attvalue for="0" value="3959008261416996"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-03-31T08:36:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1459384588000"/>
+        </attvalues>
+      </node>
+      <node id="3959369378411537" label="label125">
+        <attvalues>
+          <attvalue for="0" value="3959369378411537"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-04-01T08:31:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1459470685000"/>
+        </attvalues>
+      </node>
+      <node id="3959749324130236" label="label123">
+        <attvalues>
+          <attvalue for="0" value="3959749324130236"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-04-02T09:41:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1459561270000"/>
+        </attvalues>
+      </node>
+      <node id="3960106170861208" label="label39">
+        <attvalues>
+          <attvalue for="0" value="3960106170861208"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-04-03T09:19:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1459646350000"/>
+        </attvalues>
+      </node>
+      <node id="3960477471575989" label="label69">
+        <attvalues>
+          <attvalue for="0" value="3960477471575989"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-04-04T09:54:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1459734875000"/>
+        </attvalues>
+      </node>
+      <node id="3960824164934728" label="label145">
+        <attvalues>
+          <attvalue for="0" value="3960824164934728"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-04-05T08:52:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1459817532000"/>
+        </attvalues>
+      </node>
+      <node id="3961197730494551" label="label81">
+        <attvalues>
+          <attvalue for="0" value="3961197730494551"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-04-06T09:36:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1459906597000"/>
+        </attvalues>
+      </node>
+      <node id="3961566959259692" label="label137">
+        <attvalues>
+          <attvalue for="0" value="3961566959259692"/>
+          <attvalue for="1" value=":@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-04-07T10:03:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1459994627000"/>
+        </attvalues>
+      </node>
+      <node id="3961596260327331" label="label6">
+        <attvalues>
+          <attvalue for="0" value="3961596260327331"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-04-07T12:00:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1460001615000"/>
+        </attvalues>
+      </node>
+      <node id="3961934258584303" label="label142">
+        <attvalues>
+          <attvalue for="0" value="3961934258584303"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-04-08T10:23:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1460082199000"/>
+        </attvalues>
+      </node>
+      <node id="3962350488671649" label="label1">
+        <attvalues>
+          <attvalue for="0" value="3962350488671649"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-04-09T13:57:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1460181436000"/>
+        </attvalues>
+      </node>
+      <node id="3962649517188088" label="label112">
+        <attvalues>
+          <attvalue for="0" value="3962649517188088"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-04-10T09:45:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1460252731000"/>
+        </attvalues>
+      </node>
+      <node id="3963018976483528" label="label80">
+        <attvalues>
+          <attvalue for="0" value="3963018976483528"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-04-11T10:13:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1460340817000"/>
+        </attvalues>
+      </node>
+      <node id="3963184471704039" label="label27">
+        <attvalues>
+          <attvalue for="0" value="3963184471704039"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-04-11T21:11:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1460380273000"/>
+        </attvalues>
+      </node>
+      <node id="3963399563488638" label="label128">
+        <attvalues>
+          <attvalue for="0" value="3963399563488638"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-04-12T11:25:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1460431555000"/>
+        </attvalues>
+      </node>
+      <node id="3963776044632186" label="label40">
+        <attvalues>
+          <attvalue for="0" value="3963776044632186"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-04-13T12:21:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1460521315000"/>
+        </attvalues>
+      </node>
+      <node id="3964130908665161" label="label130">
+        <attvalues>
+          <attvalue for="0" value="3964130908665161"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-04-14T11:52:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1460605920000"/>
+        </attvalues>
+      </node>
+      <node id="3964471502000828" label="label113">
+        <attvalues>
+          <attvalue for="0" value="3964471502000828"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-04-15T10:25:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1460687125000"/>
+        </attvalues>
+      </node>
+      <node id="3964816894514638" label="label17">
+        <attvalues>
+          <attvalue for="0" value="3964816894514638"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-04-16T09:17:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1460769472000"/>
+        </attvalues>
+      </node>
+      <node id="3965205568238863" label="label61">
+        <attvalues>
+          <attvalue for="0" value="3965205568238863"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-04-17T11:02:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1460862140000"/>
+        </attvalues>
+      </node>
+      <node id="3965546003540146" label="label93">
+        <attvalues>
+          <attvalue for="0" value="3965546003540146"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-04-18T09:35:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1460943306000"/>
+        </attvalues>
+      </node>
+      <node id="3965655486792395" label="label160">
+        <attvalues>
+          <attvalue for="0" value="3965655486792395"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-04-18T16:50:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1460969409000"/>
+        </attvalues>
+      </node>
+      <node id="3965914607149130" label="label18">
+        <attvalues>
+          <attvalue for="0" value="3965914607149130"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-04-19T09:59:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1461031188000"/>
+        </attvalues>
+      </node>
+      <node id="3966266353607332" label="label10">
+        <attvalues>
+          <attvalue for="0" value="3966266353607332"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-04-20T09:17:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1461115051000"/>
+        </attvalues>
+      </node>
+      <node id="3966400751674437" label="label51">
+        <attvalues>
+          <attvalue for="0" value="3966400751674437"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-04-20T18:11:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1461147094000"/>
+        </attvalues>
+      </node>
+      <node id="3966994757219774" label="label91">
+        <attvalues>
+          <attvalue for="0" value="3966994757219774"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-04-22T09:31:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1461288717000"/>
+        </attvalues>
+      </node>
+      <node id="3967133484098229" label="label41">
+        <attvalues>
+          <attvalue for="0" value="3967133484098229"/>
+          <attvalue for="1" value="/@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-04-22T18:43:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1461321791000"/>
+        </attvalues>
+      </node>
+      <node id="3967339768228004" label="label98">
+        <attvalues>
+          <attvalue for="0" value="3967339768228004"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-04-23T08:22:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1461370974000"/>
+        </attvalues>
+      </node>
+      <node id="3967718220628506" label="label158">
+        <attvalues>
+          <attvalue for="0" value="3967718220628506"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-04-24T09:26:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1461461203000"/>
+        </attvalues>
+      </node>
+      <node id="3968075247753434" label="label155">
+        <attvalues>
+          <attvalue for="0" value="3968075247753434"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-04-25T09:05:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1461546325000"/>
+        </attvalues>
+      </node>
+      <node id="3968220265764662" label="label100">
+        <attvalues>
+          <attvalue for="0" value="3968220265764662"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-04-25T18:41:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1461580900000"/>
+        </attvalues>
+      </node>
+      <node id="3968440169345056" label="label54">
+        <attvalues>
+          <attvalue for="0" value="3968440169345056"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-04-26T09:15:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1461633329000"/>
+        </attvalues>
+      </node>
+      <node id="3968583564273848" label="label148">
+        <attvalues>
+          <attvalue for="0" value="3968583564273848"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-04-26T18:45:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1461667517000"/>
+        </attvalues>
+      </node>
+      <node id="3968788132992527" label="label8">
+        <attvalues>
+          <attvalue for="0" value="3968788132992527"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-04-27T08:18:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1461716290000"/>
+        </attvalues>
+      </node>
+      <node id="3968949160329744" label="label47">
+        <attvalues>
+          <attvalue for="0" value="3968949160329744"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-04-27T18:58:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1461754682000"/>
+        </attvalues>
+      </node>
+      <node id="3969152328240824" label="label106">
+        <attvalues>
+          <attvalue for="0" value="3969152328240824"/>
+          <attvalue for="1" value="@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="3636166374"/>
+          <attvalue for="3" value="2016-04-28T08:25:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1461803121000"/>
+        </attvalues>
+      </node>
+      <node id="3985643392365795" label="label83">
+        <attvalues>
+          <attvalue for="0" value="3985643392365795"/>
+          <attvalue for="1" value="//@肿瘤专家陈小兵:结直肠癌低龄化，与长期吃垃圾食品密切相关。//@港文罗:说到点子上了，这些天天吃垃圾食品的家伙还常常很牛逼的嘲笑别人健康饮食习惯//@病理医生杨连君: //@肿瘤专家陈小兵: 病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品"/>
+          <attvalue for="2" value="5926695433"/>
+          <attvalue for="3" value="2016-06-12T20:34:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1465734897000"/>
+        </attvalues>
+      </node>
+      <node id="3985643468003731" label="label26">
+        <attvalues>
+          <attvalue for="0" value="3985643468003731"/>
+          <attvalue for="1" value="//@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="5926695433"/>
+          <attvalue for="3" value="2016-06-12T20:35:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1465734915000"/>
+        </attvalues>
+      </node>
+      <node id="3985651055294271" label="label76">
+        <attvalues>
+          <attvalue for="0" value="3985651055294271"/>
+          <attvalue for="1" value="//@谷风子替儿喊冤://@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="5673120579"/>
+          <attvalue for="3" value="2016-06-12T21:05:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1465736724000"/>
+        </attvalues>
+      </node>
+      <node id="3985651144307575" label="label121">
+        <attvalues>
+          <attvalue for="0" value="3985651144307575"/>
+          <attvalue for="1" value="//@谷风子替儿喊冤://@肿瘤专家陈小兵:结直肠癌低龄化，与长期吃垃圾食品密切相关。//@港文罗:说到点子上了，这些天天吃垃圾食品的家伙还常常很牛逼的嘲笑别人健康饮食习惯//@肿瘤专家陈小兵: 病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品"/>
+          <attvalue for="2" value="5673120579"/>
+          <attvalue for="3" value="2016-06-12T21:05:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1465736744000"/>
+        </attvalues>
+      </node>
+      <node id="3988165641275642" label="label35">
+        <attvalues>
+          <attvalue for="0" value="3988165641275642"/>
+          <attvalue for="1" value="//@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="5926695433"/>
+          <attvalue for="3" value="2016-06-19T19:37:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1466336248000"/>
+        </attvalues>
+      </node>
+      <node id="3988501085107337" label="label32">
+        <attvalues>
+          <attvalue for="0" value="3988501085107337"/>
+          <attvalue for="1" value="//@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="5926695433"/>
+          <attvalue for="3" value="2016-06-20T17:50:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1466416224000"/>
+        </attvalues>
+      </node>
+      <node id="3988595209375204" label="label50">
+        <attvalues>
+          <attvalue for="0" value="3988595209375204"/>
+          <attvalue for="1" value="/@肿瘤专家陈小兵:病从口入！更可怕的是，有的孩子从小开始，几乎每天都在吃方便面，火腿肠，三无小食品，喝可乐等等垃圾食品。//@Mon呆呆:博主所谓长期不良习惯、大概是指吃饭喝水生活在中国吧，现在饮食饮水、环境污染就是不明说呗//@蒙娜丽卡猫：哎…@Mon呆呆[挖鼻]"/>
+          <attvalue for="2" value="5926695433"/>
+          <attvalue for="3" value="2016-06-21T00:04:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1466438665000"/>
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="3906290843411284" target="3906351652832802"/>
+      <edge id="1" source="3906290843411284" target="3906300121234822"/>
+      <edge id="10" source="3906931913482997" target="3906955011492418"/>
+      <edge id="100" source="3906955011492418" target="3957550934019380"/>
+      <edge id="101" source="3906955011492418" target="3916457630710760"/>
+      <edge id="102" source="3906931913482997" target="3906934480261067"/>
+      <edge id="103" source="3985643468003731" target="3988165641275642"/>
+      <edge id="104" source="3906931913482997" target="3985643468003731"/>
+      <edge id="105" source="3988165641275642" target="3988501085107337"/>
+      <edge id="106" source="3988165641275642" target="3988595209375204"/>
+      <edge id="107" source="3906935310593334" target="3985651144307575"/>
+      <edge id="108" source="3906935310593334" target="3907294330531948"/>
+      <edge id="109" source="3906935310593334" target="3906956894495978"/>
+      <edge id="11" source="3906955011492418" target="3967133484098229"/>
+      <edge id="110" source="3906935310593334" target="3907033621000567"/>
+      <edge id="111" source="3906935310593334" target="3985643392365795"/>
+      <edge id="112" source="3906935310593334" target="3906936276081509"/>
+      <edge id="113" source="3906935310593334" target="3906954134776831"/>
+      <edge id="114" source="3906935310593334" target="3906956127618568"/>
+      <edge id="115" source="3906955011492418" target="3919158674287915"/>
+      <edge id="116" source="3906955011492418" target="3910255609861663"/>
+      <edge id="117" source="3906955011492418" target="3918268244835597"/>
+      <edge id="118" source="3906955011492418" target="3955029863481903"/>
+      <edge id="119" source="3906955011492418" target="3917013687175948"/>
+      <edge id="12" source="3906955011492418" target="3957208129152474"/>
+      <edge id="120" source="3906955011492418" target="3961934258584303"/>
+      <edge id="121" source="3906955011492418" target="3963184471704039"/>
+      <edge id="122" source="3906955011492418" target="3916082240469496"/>
+      <edge id="123" source="3906955011492418" target="3916780004847597"/>
+      <edge id="124" source="3906955011492418" target="3918596805312906"/>
+      <edge id="125" source="3906955011492418" target="3918828696104530"/>
+      <edge id="126" source="3906955011492418" target="3958291446378154"/>
+      <edge id="127" source="3968075247753434" target="3968440169345056"/>
+      <edge id="128" source="3968075247753434" target="3968949160329744"/>
+      <edge id="129" source="3968075247753434" target="3969152328240824"/>
+      <edge id="13" source="3906955011492418" target="3908080239018599"/>
+      <edge id="130" source="3968075247753434" target="3968220265764662"/>
+      <edge id="131" source="3906935310593334" target="3906938267651830"/>
+      <edge id="132" source="3968075247753434" target="3968583564273848"/>
+      <edge id="133" source="3906935310593334" target="3906962133569177"/>
+      <edge id="134" source="3906935310593334" target="3916458314454035"/>
+      <edge id="135" source="3906935310593334" target="3906997676114284"/>
+      <edge id="136" source="3906935310593334" target="3906966868647922"/>
+      <edge id="137" source="3906955011492418" target="3927705248533802"/>
+      <edge id="138" source="3906955011492418" target="3946409960488000"/>
+      <edge id="139" source="3906955011492418" target="3926881512414574"/>
+      <edge id="14" source="3906955011492418" target="3909773210621532"/>
+      <edge id="140" source="3906955011492418" target="3924977591908350"/>
+      <edge id="141" source="3906955011492418" target="3951424544569591"/>
+      <edge id="142" source="3906955011492418" target="3964816894514638"/>
+      <edge id="143" source="3906955011492418" target="3963018976483528"/>
+      <edge id="144" source="3906955011492418" target="3961197730494551"/>
+      <edge id="145" source="3906955011492418" target="3925347285939542"/>
+      <edge id="146" source="3906955011492418" target="3925833200497181"/>
+      <edge id="147" source="3906955011492418" target="3957935656616775"/>
+      <edge id="148" source="3906955011492418" target="3966266353607332"/>
+      <edge id="149" source="3906955011492418" target="3965914607149130"/>
+      <edge id="15" source="3906955011492418" target="3946723606506287"/>
+      <edge id="150" source="3906474331509563" target="3906528223987449"/>
+      <edge id="151" source="3967339768228004" target="3968075247753434"/>
+      <edge id="152" source="3906474331509563" target="3906637637324939"/>
+      <edge id="153" source="3906474331509563" target="3906517977978227"/>
+      <edge id="154" source="3906449832470434" target="3906842381864126"/>
+      <edge id="155" source="3906449832470434" target="3909380599136697"/>
+      <edge id="156" source="3906449832470434" target="3906822434263652"/>
+      <edge id="157" source="3906449832470434" target="3906875336722594"/>
+      <edge id="158" source="3967339768228004" target="3967718220628506"/>
+      <edge id="159" source="3968075247753434" target="3968788132992527"/>
+      <edge id="16" source="3906955011492418" target="3954650023130560"/>
+      <edge id="160" source="3906955011492418" target="3961566959259692"/>
+      <edge id="161" source="3906955011492418" target="3923890373432024"/>
+      <edge id="162" source="3906955011492418" target="3964130908665161"/>
+      <edge id="163" source="3906955011492418" target="3918067484069221"/>
+      <edge id="164" source="3906955011492418" target="3936557780101543"/>
+      <edge id="165" source="3906955011492418" target="3952483677931008"/>
+      <edge id="166" source="3906955011492418" target="3959369378411537"/>
+      <edge id="167" source="3906955011492418" target="3959008261416996"/>
+      <edge id="168" source="3906955011492418" target="3947084262091698"/>
+      <edge id="169" source="3906955011492418" target="3953923963795917"/>
+      <edge id="17" source="3906955011492418" target="3960106170861208"/>
+      <edge id="18" source="3906955011492418" target="3963776044632186"/>
+      <edge id="19" source="3906931913482997" target="3906932580232907"/>
+      <edge id="2" source="3906290843411284" target="3906476517030872"/>
+      <edge id="20" source="3906955011492418" target="3912417916362026"/>
+      <edge id="21" source="3906955011492418" target="3917820674574378"/>
+      <edge id="22" source="3906931913482997" target="3906934903963330"/>
+      <edge id="23" source="3906955011492418" target="3962350488671649"/>
+      <edge id="24" source="3906955011492418" target="3955747315888230"/>
+      <edge id="25" source="3906955011492418" target="3908837373117396"/>
+      <edge id="26" source="3906931913482997" target="3906935310593334"/>
+      <edge id="27" source="3906955011492418" target="3963399563488638"/>
+      <edge id="28" source="3906956601106348" target="3906966202222324"/>
+      <edge id="29" source="3906290843411284" target="3906956601106348"/>
+      <edge id="3" source="3906290843411284" target="3906586529020775"/>
+      <edge id="30" source="3906290843411284" target="3906560474389799"/>
+      <edge id="31" source="3906290843411284" target="3906534976981734"/>
+      <edge id="32" source="3906290843411284" target="3906449832470434"/>
+      <edge id="33" source="3906290843411284" target="3906291325598604"/>
+      <edge id="34" source="3906290843411284" target="3906931913482997"/>
+      <edge id="35" source="3906290843411284" target="3906291443651843"/>
+      <edge id="36" source="3906290843411284" target="3906472792070724"/>
+      <edge id="37" source="3906290843411284" target="3906295155716470"/>
+      <edge id="38" source="3906955011492418" target="3945774095629223"/>
+      <edge id="39" source="3906955011492418" target="3915580622742706"/>
+      <edge id="4" source="3906290843411284" target="3907029057601517"/>
+      <edge id="40" source="3906955011492418" target="3958649665106797"/>
+      <edge id="41" source="3906955011492418" target="3965546003540146"/>
+      <edge id="42" source="3906955011492418" target="3954277505863215"/>
+      <edge id="43" source="3906955011492418" target="3960824164934728"/>
+      <edge id="44" source="3906955011492418" target="3922064941078136"/>
+      <edge id="45" source="3906955011492418" target="3953568220280412"/>
+      <edge id="46" source="3906955011492418" target="3966994757219774"/>
+      <edge id="47" source="3906955011492418" target="3908078342670146"/>
+      <edge id="48" source="3906955011492418" target="3967339768228004"/>
+      <edge id="49" source="3906955011492418" target="3956518765903377"/>
+      <edge id="5" source="3906290843411284" target="3906449622991194"/>
+      <edge id="50" source="3906956601106348" target="3906969624450721"/>
+      <edge id="51" source="3906956601106348" target="3906965136688703"/>
+      <edge id="52" source="3906956601106348" target="3906961894031612"/>
+      <edge id="53" source="3906956601106348" target="3906974087877276"/>
+      <edge id="54" source="3906476517030872" target="3906554073577394"/>
+      <edge id="55" source="3906476517030872" target="3906535861958927"/>
+      <edge id="56" source="3906956601106348" target="3906986925647078"/>
+      <edge id="57" source="3906956601106348" target="3907014998978394"/>
+      <edge id="58" source="3906955011492418" target="3948307623068476"/>
+      <edge id="59" source="3906955011492418" target="3943270209302982"/>
+      <edge id="6" source="3906290843411284" target="3906956558958037"/>
+      <edge id="60" source="3906955011492418" target="3914121508435522"/>
+      <edge id="61" source="3906955011492418" target="3918421014566428"/>
+      <edge id="62" source="3906956601106348" target="3906976997908756"/>
+      <edge id="63" source="3906956601106348" target="3906976692309333"/>
+      <edge id="64" source="3906955011492418" target="3937636257319605"/>
+      <edge id="65" source="3906955011492418" target="3965655486792395"/>
+      <edge id="66" source="3906955011492418" target="3961596260327331"/>
+      <edge id="67" source="3906955011492418" target="3922959221163820"/>
+      <edge id="68" source="3906955011492418" target="3941761719889412"/>
+      <edge id="69" source="3906476517030872" target="3906528505954807"/>
+      <edge id="7" source="3906290843411284" target="3906474331509563"/>
+      <edge id="70" source="3906476517030872" target="3906610231644037"/>
+      <edge id="71" source="3906472792070724" target="3906528744581218"/>
+      <edge id="72" source="3906472792070724" target="3906808583985204"/>
+      <edge id="73" source="3985643468003731" target="3985651055294271"/>
+      <edge id="74" source="3906472792070724" target="3906555164215008"/>
+      <edge id="75" source="3906934480261067" target="3906956282184492"/>
+      <edge id="76" source="3906934480261067" target="3906958925046824"/>
+      <edge id="77" source="3906472792070724" target="3906842331491453"/>
+      <edge id="78" source="3906472792070724" target="3906529230916577"/>
+      <edge id="79" source="3906955011492418" target="3919536010589125"/>
+      <edge id="8" source="3906449832470434" target="3906450352862017"/>
+      <edge id="80" source="3906955011492418" target="3923312981735139"/>
+      <edge id="81" source="3906955011492418" target="3965205568238863"/>
+      <edge id="82" source="3906955011492418" target="3951062287350840"/>
+      <edge id="83" source="3906955011492418" target="3937368484110225"/>
+      <edge id="84" source="3906955011492418" target="3966400751674437"/>
+      <edge id="85" source="3906955011492418" target="3955384697232884"/>
+      <edge id="86" source="3906955011492418" target="3960477471575989"/>
+      <edge id="87" source="3906955011492418" target="3940694839842279"/>
+      <edge id="88" source="3906955011492418" target="3921532084194460"/>
+      <edge id="89" source="3906955011492418" target="3930585896087108"/>
+      <edge id="9" source="3906449832470434" target="3906808646920703"/>
+      <edge id="90" source="3906955011492418" target="3962649517188088"/>
+      <edge id="91" source="3906955011492418" target="3921014053988124"/>
+      <edge id="92" source="3906955011492418" target="3964471502000828"/>
+      <edge id="93" source="3906955011492418" target="3917441756973215"/>
+      <edge id="94" source="3906955011492418" target="3943465920240213"/>
+      <edge id="95" source="3906955011492418" target="3918975064774324"/>
+      <edge id="96" source="3906955011492418" target="3952841535585575"/>
+      <edge id="97" source="3906955011492418" target="3956825776524267"/>
+      <edge id="98" source="3906955011492418" target="3948865885425864"/>
+      <edge id="99" source="3906955011492418" target="3959749324130236"/>
+    </edges>
+  </graph>
+</gexf>

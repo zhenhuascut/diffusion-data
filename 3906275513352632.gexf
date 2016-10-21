@@ -1,0 +1,219 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.gephi.org/gexf/1.2draft" xmlns:ns0="xsi" version="1.2" ns0:schemaLocation="http://www.gephi.org/gexf/1.1draft http://gephi.org/gexf/1.2draft.xsd">
+  <meta lastmodified="2016-10-01">
+    <creator>Huang</creator>
+    <description>A web network</description>
+  </meta>
+  <graph defaultedgetype="directed" label="A web network" mode="dynamic" timeformat="dateTime">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="m_id" type="string"/>
+      <attribute id="1" title="content" type="string"/>
+      <attribute id="2" title="u_id" type="string"/>
+      <attribute id="3" title="m_time" type="string"/>
+      <attribute id="4" title="m_timestamp" type="string"/>
+    </attributes>
+    <nodes>
+      <node id="3906275513352632" label="label17">
+        <attvalues>
+          <attvalue for="0" value="3906275513352632"/>
+          <attvalue for="1" value="#Miranda Kerr# -身穿修身牛仔  &amp;  绑着丸子头的辣麻在纽约外出 手上的小爱犬超抢镜  #米兰达.可儿#[雷锋][好棒]"/>
+          <attvalue for="2" value="2605237860"/>
+          <attvalue for="3" value="2015-11-06T20:15:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446812120000"/>
+        </attvalues>
+      </node>
+      <node id="3906277745337389" label="label16">
+        <attvalues>
+          <attvalue for="0" value="3906277745337389"/>
+          <attvalue for="1" value="转发微博"/>
+          <attvalue for="2" value="5043185207"/>
+          <attvalue for="3" value="2015-11-06T20:24:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446812651000"/>
+        </attvalues>
+      </node>
+      <node id="3906281330808014" label="label12">
+        <attvalues>
+          <attvalue for="0" value="3906281330808014"/>
+          <attvalue for="1" value="漂亮啊！"/>
+          <attvalue for="2" value="5614142290"/>
+          <attvalue for="3" value="2015-11-06T20:38:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446813507000"/>
+        </attvalues>
+      </node>
+      <node id="3906285709413867" label="label13">
+        <attvalues>
+          <attvalue for="0" value="3906285709413867"/>
+          <attvalue for="1" value="转发微博"/>
+          <attvalue for="2" value="5694944480"/>
+          <attvalue for="3" value="2015-11-06T20:55:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446814551000"/>
+        </attvalues>
+      </node>
+      <node id="3906287664598929" label="label4">
+        <attvalues>
+          <attvalue for="0" value="3906287664598929"/>
+          <attvalue for="1" value="小开花呢[doge]"/>
+          <attvalue for="2" value="1671948650"/>
+          <attvalue for="3" value="2015-11-06T21:03:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446815016000"/>
+        </attvalues>
+      </node>
+      <node id="3906291523122309" label="label5">
+        <attvalues>
+          <attvalue for="0" value="3906291523122309"/>
+          <attvalue for="1" value="转发微博"/>
+          <attvalue for="2" value="5665141477"/>
+          <attvalue for="3" value="2015-11-06T21:18:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446815936000"/>
+        </attvalues>
+      </node>
+      <node id="3906291912672599" label="label14">
+        <attvalues>
+          <attvalue for="0" value="3906291912672599"/>
+          <attvalue for="1" value="美人儿"/>
+          <attvalue for="2" value="1745972573"/>
+          <attvalue for="3" value="2015-11-06T21:20:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446816029000"/>
+        </attvalues>
+      </node>
+      <node id="3906294409186249" label="label10">
+        <attvalues>
+          <attvalue for="0" value="3906294409186249"/>
+          <attvalue for="1" value="转发微博"/>
+          <attvalue for="2" value="1954172171"/>
+          <attvalue for="3" value="2015-11-06T21:30:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446816625000"/>
+        </attvalues>
+      </node>
+      <node id="3906310636326517" label="label8">
+        <attvalues>
+          <attvalue for="0" value="3906310636326517"/>
+          <attvalue for="1" value="转发微博"/>
+          <attvalue for="2" value="2688338037"/>
+          <attvalue for="3" value="2015-11-06T22:34:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446820494000"/>
+        </attvalues>
+      </node>
+      <node id="3906316156647085" label="label18">
+        <attvalues>
+          <attvalue for="0" value="3906316156647085"/>
+          <attvalue for="1" value="转发微博"/>
+          <attvalue for="2" value="3764508957"/>
+          <attvalue for="3" value="2015-11-06T22:56:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446821810000"/>
+        </attvalues>
+      </node>
+      <node id="3906349546849938" label="label11">
+        <attvalues>
+          <attvalue for="0" value="3906349546849938"/>
+          <attvalue for="1" value="转发微博"/>
+          <attvalue for="2" value="2682137371"/>
+          <attvalue for="3" value="2015-11-07T01:09:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446829770000"/>
+        </attvalues>
+      </node>
+      <node id="3906464185544968" label="label0">
+        <attvalues>
+          <attvalue for="0" value="3906464185544968"/>
+          <attvalue for="1" value="转发微博"/>
+          <attvalue for="2" value="5326664255"/>
+          <attvalue for="3" value="2015-11-07T08:45:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446857103000"/>
+        </attvalues>
+      </node>
+      <node id="3906517101693348" label="label3">
+        <attvalues>
+          <attvalue for="0" value="3906517101693348"/>
+          <attvalue for="1" value="包包什么牌子"/>
+          <attvalue for="2" value="1763093752"/>
+          <attvalue for="3" value="2015-11-07T12:15:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446869719000"/>
+        </attvalues>
+      </node>
+      <node id="3906556863646841" label="label1">
+        <attvalues>
+          <attvalue for="0" value="3906556863646841"/>
+          <attvalue for="1" value="好美啊"/>
+          <attvalue for="2" value="3913796778"/>
+          <attvalue for="3" value="2015-11-07T14:53:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446879199000"/>
+        </attvalues>
+      </node>
+      <node id="3906593722686190" label="label9">
+        <attvalues>
+          <attvalue for="0" value="3906593722686190"/>
+          <attvalue for="1" value="漂亮的不要不要的"/>
+          <attvalue for="2" value="2709002427"/>
+          <attvalue for="3" value="2015-11-07T17:19:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446887987000"/>
+        </attvalues>
+      </node>
+      <node id="3906616174806531" label="label6">
+        <attvalues>
+          <attvalue for="0" value="3906616174806531"/>
+          <attvalue for="1" value="转发微博"/>
+          <attvalue for="2" value="5611796638"/>
+          <attvalue for="3" value="2015-11-07T18:48:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446893339000"/>
+        </attvalues>
+      </node>
+      <node id="3906617886265668" label="label19">
+        <attvalues>
+          <attvalue for="0" value="3906617886265668"/>
+          <attvalue for="1" value="转发微博"/>
+          <attvalue for="2" value="1771755507"/>
+          <attvalue for="3" value="2015-11-07T18:55:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446893748000"/>
+        </attvalues>
+      </node>
+      <node id="3906649510789112" label="label2">
+        <attvalues>
+          <attvalue for="0" value="3906649510789112"/>
+          <attvalue for="1" value="转发微博"/>
+          <attvalue for="2" value="5026542911"/>
+          <attvalue for="3" value="2015-11-07T21:01:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1446901288000"/>
+        </attvalues>
+      </node>
+      <node id="3907091859639747" label="label7">
+        <attvalues>
+          <attvalue for="0" value="3907091859639747"/>
+          <attvalue for="1" value="超喜欢这身行头"/>
+          <attvalue for="2" value="1409748433"/>
+          <attvalue for="3" value="2015-11-09T02:19:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1447006752000"/>
+        </attvalues>
+      </node>
+      <node id="3907348919651597" label="label15">
+        <attvalues>
+          <attvalue for="0" value="3907348919651597"/>
+          <attvalue for="1" value="转发微博"/>
+          <attvalue for="2" value="5261536722"/>
+          <attvalue for="3" value="2015-11-09T19:20:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1447068040000"/>
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="3906275513352632" target="3906616174806531"/>
+      <edge id="1" source="3906275513352632" target="3906294409186249"/>
+      <edge id="10" source="3906275513352632" target="3906464185544968"/>
+      <edge id="11" source="3906275513352632" target="3906517101693348"/>
+      <edge id="12" source="3906275513352632" target="3906291523122309"/>
+      <edge id="13" source="3906275513352632" target="3906310636326517"/>
+      <edge id="14" source="3906275513352632" target="3906617886265668"/>
+      <edge id="15" source="3906275513352632" target="3906281330808014"/>
+      <edge id="16" source="3906275513352632" target="3906649510789112"/>
+      <edge id="17" source="3906275513352632" target="3906349546849938"/>
+      <edge id="18" source="3906275513352632" target="3906287664598929"/>
+      <edge id="2" source="3906275513352632" target="3906277745337389"/>
+      <edge id="3" source="3906275513352632" target="3906291912672599"/>
+      <edge id="4" source="3906275513352632" target="3906285709413867"/>
+      <edge id="5" source="3906275513352632" target="3907348919651597"/>
+      <edge id="6" source="3906275513352632" target="3906316156647085"/>
+      <edge id="7" source="3906275513352632" target="3906593722686190"/>
+      <edge id="8" source="3906275513352632" target="3907091859639747"/>
+      <edge id="9" source="3906275513352632" target="3906556863646841"/>
+    </edges>
+  </graph>
+</gexf>
