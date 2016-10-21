@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.gephi.org/gexf/1.2draft" xmlns:ns0="xsi" version="1.2" ns0:schemaLocation="http://www.gephi.org/gexf/1.1draft http://gephi.org/gexf/1.2draft.xsd">
+  <meta lastmodified="2016-10-01">
+    <creator>Huang</creator>
+    <description>A web network</description>
+  </meta>
+  <graph defaultedgetype="directed" label="A web network" mode="dynamic" timeformat="dateTime">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="m_id" type="string"/>
+      <attribute id="1" title="content" type="string"/>
+      <attribute id="2" title="u_id" type="string"/>
+      <attribute id="3" title="m_time" type="string"/>
+      <attribute id="4" title="m_timestamp" type="string"/>
+    </attributes>
+    <nodes>
+      <node id="3931895085186717" label="label0">
+        <attvalues>
+          <attvalue for="0" value="3931895085186717"/>
+          <attvalue for="1" value="每周一花。"/>
+          <attvalue for="2" value="1761230880"/>
+          <attvalue for="3" value="2016-01-16T12:58:00.000+0800.000+0800"/>
+          <attvalue for="4" value="1452920302000"/>
+        </attvalues>
+      </node>
+    </nodes>
+    <edges/>
+  </graph>
+</gexf>
